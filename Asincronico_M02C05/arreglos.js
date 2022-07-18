@@ -11,4 +11,3 @@ function sumArray(arr){
 console.log (sumArray([1,2,3]));       // 6
 console.log (sumArray([10,3,10,4]));   // 27
 console.log (sumArray([-5,100]));      //95
-
