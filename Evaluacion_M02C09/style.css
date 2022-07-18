@@ -1,0 +1,15 @@
+#regresivo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    font-size: 12vw;
+  }
+
+  body {
+    height: 500px;
+    background-image: src="./main.js";
+  background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
